@@ -2,4 +2,4 @@
 
 const generateGif = require('./src/generate-gif');
 
-generateGif('./gifs/test3/', 'story.gif', true, 1000);
+generateGif('./gifs/test/', 'story.gif', true, 1000);
